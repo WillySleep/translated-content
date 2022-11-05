@@ -1,8 +1,9 @@
 ---
 title: Operador de coalescência nula
-slug: Web/JavaScript/Reference/Operators/Nullish_coalescing_operator
-original_slug: Web/JavaScript/Reference/Operators/operador_de_coalescencia_nula
+slug: conflicting/Web/JavaScript/Reference/Operators/Nullish_coalescing
+original_slug: Web/JavaScript/Reference/Operators/Nullish_coalescing_operator
 ---
+
 {{JSSidebar("Operators")}}
 
 O **operador de coalescência nula (`??`)** é um operador lógico que retorna o seu operando do lado direito quando o seu operador do lado esquerdo é {{jsxref("null")}} ou {{jsxref("undefined")}}. Caso contrário, ele retorna o seu operando do lado esquerdo.
